@@ -1,2 +1,2 @@
 # bank-config-server
-Config Server
+Repositorio al cual se conecta el Config Server
